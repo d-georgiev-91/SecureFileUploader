@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using SecureFileUploader.Data.Repositories;
+﻿using SecureFileUploader.Data.Repositories;
 
 namespace SecureFileUploader.Data;
 
